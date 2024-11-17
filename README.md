@@ -6,7 +6,8 @@ O que significa que já fiz um pouco de muita coisa para manter a operação de 
 - integrei soluções low/no-code como Zappier, Pipefy, Intercom, etc
 - na falta de uma aplicação admin: aprendi a lidar com APIs via postman
 
-<br>🌱 Estou aprendendo a fazer aplicações básicas usando no-code com Bubble.io </br>
+<br>🤖 Entusiasta de IA e agentes de IA. Crio e customizo fluxos usando CrewAI, Langflow </br>
+<br>🌱 Faço aplicações básicas usando low-code: bubble, make, n8n e outros </br>
 <br>💬 Tenho uma consultoria que ajuda produtos digitais a colocarem o cliente no centro (aumentando receita e/ou margem)</br>
 
 
