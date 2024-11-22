@@ -14,8 +14,8 @@ O que significa que já fiz um pouco de muita coisa para manter a operação de 
 
 ### Você também me encontra aqui:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/leodabague)
+[![Threads](https://img.shields.io/badge/Threads-000000?style=for-the-badge&logo=Threads&logoColor=white)](https://www.threads.net/@leodabague)
 [![Blog](https://img.shields.io/website?label=LeoDabague.com&style=for-the-badge&url=https://leodabague.com)](https://leodabague.com)
 [![TikTok](https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white)](https://www.tiktok.com/@leodabague)
-[![Threads](https://img.shields.io/badge/Threads-000000?style=for-the-badge&logo=Threads&logoColor=white)](https://www.threads.net/@leodabague)
 
 🧠 Organizo meu 2º Cerebro no <img align="center" alt="teste" src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white"/> e Obsidian.
