@@ -10,6 +10,7 @@ O que significa que já fiz um pouco de muita coisa para manter a operação de 
 <br> Escrevo no LinkedIn e crio vídeos para o Youtube </br>
 <br>🌱 Sou entusiasta dos low-code's + LLMs: bubble, make, n8n e outros </br>
 <br>💬 Tenho uma consultoria que ajuda produtos digitais a colocarem o cliente no centro (aumentando receita e/ou margem)</br>
+<br>⌨️ Faço aplicações em Python para automatizar o dia-a-dia e também para entregar valor para os clientes</br>
 
 
 ### Você também me encontra aqui:
