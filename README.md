@@ -28,7 +28,7 @@ O que significa que já fiz um pouco de muita coisa para manter a operação de 
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=leodabague&layout=compact&theme=radical)
 
-![GitHub Streak](https://streak-stats.demolab.com/?user=leodabague&theme=radical)
+![GitHub Streak](https://streak-stats.demolab.com/?user=leodabague&theme=dark)
 
 </div>
 
